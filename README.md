@@ -86,7 +86,8 @@ Answer to CQ (16) "Is there a contact point for technical support?":
 
 
 ## References
-The following papers have been consideres for deriving the competency questions.
+
+### References used to derive Competency Questions
 
 1.	Fassnacht, M., Benz, C., Heinz, D., Leimstoll, J., & Satzger, G. (2023).  Barriers to data sharing among private sector organizations. Proceedings of the 56th Hawaii International Conference on System Sciences Hawaii International Conference on System Sciences (HICSS) 
 2.	Van de Wetering, R., & Versendaal, J. (2018). How a flexible collaboration infrastructure impacts healthcare information exchange. BLED 2018 Proceedings, 12.
@@ -129,17 +130,13 @@ The following papers have been consideres for deriving the competency questions.
 39.	Shae, Z. Y., & Tsai, J. J. (2021, December). On the design of medical data ecosystem for improving healthcare research and commercial incentive. In 2021 IEEE Third International Conference on Cognitive Machine Intelligence (CogMI) (pp. 124-131). IEEE.
 40.	Bader, S., Pullmann, J., Mader, C., Tramp, S., Quix, C., Müller, A. W., ... & Lange, C. (2020, November). The international data spaces information model–an ontology for sovereign exchange of digital content. In International Semantic Web Conference (pp. 176-192). Cham: Springer International Publishing.
 
-### Other References <br>
+### DPDO References <br>
 41. Maass, W. (2009). Elektronische Wissensmärkte: Handel von Information und Wissen über digitale Netze. Springer-Verlag <br>
 42. Janzen, S., & Maass, W. (2008). Smart product description object (spdo). In Poster Proceedings of the 5th International Conference on Formal Ontology in Information Systems (FOIS) <br>
 43. Abramovici, M. (2014). Smart products. CIRP Encyclopedia of Production Engineering, 59, 1-5. <br>
 44. Oberweis, A., Pankratius, V., & Stucky, W. (2007). Product lines for digital information products. Information systems, 32(6), 909-939. <br>
 45. Hui, K. L., & Chau, P. Y. (2002). Classifying digital products. Communications of the ACM, 45(6), 73-79 <br>
 46. Haupert, J. (2013). DOMeMan: Repräsentation, Verwaltung und Nutzung von digitalen Objektgedächtnissen (pp. 1-286). Saarland University. <br>
-
-
-
-
 
 ## Install
 
