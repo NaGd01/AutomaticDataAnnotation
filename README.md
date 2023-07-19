@@ -22,7 +22,7 @@ Based on several related works (see section References), we identified the follo
 
 ### Data sets
 
-The following open data sets matching the [GAIA-X ecosystem domains](https://gaia-x-hub.de/domaenen/) were used for the evaluation by these competency questions as input to populate our knowledge graph, which was then queried using cypher queries and can further be used for testing purposes.
+The following open data sets matching the [GAIA-X ecosystem domains](https://gaia-x-hub.de/domaenen/) were used for the evaluation by these competency questions as input to populate our knowledge graph, which was then queried using cypher queries.
 
 [Agriculture](https://www.kaggle.com/datasets/srinivas1/agricuture-crops-production-in-india) <br>
 [Energy](https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption) <br>
