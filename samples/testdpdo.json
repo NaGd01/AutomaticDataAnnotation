@@ -1,0 +1,81 @@
+{ 
+    "@context": [{ 
+      "schema": "http://schema.org", 
+      "dcat": "http://www.w3.org/ns/dcat#", 
+      "dct": "http://purl.org/dc/terms/", 
+      "dqv": "http://www.w3.org/ns/dqv#", 
+      "prov": "http://www.w3.org/ns/prov", 
+      "proton": "http://www.ontotext.com/proton/protonext#", 
+      "ov": "http://open.vocab.org/terms/#", 
+      "dpdo": "http://dpdo.org/dpdo#" 
+      }], 
+  
+      "dpdo:ProductDescriptionFacet": { 
+        "@id": "https://spaicer.de/dpdo/1630400500160", 
+        "dct:title": "Messdaten Anlage Drucklufterzeugung.csv", 
+        "dcat:theme": "Possession, Compressor, Machine element", 
+        "dpdo:subcategory": "Assets, Asset, Primordium, Air compressor, Silent air compressor", 
+        "schema:Class": "Datastream", 
+        "dct:temporal": { 
+          "@id": "https://spaicer.de/dpdo/1630400500160",
+          "dcat:startDate": "Fri Jan 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)", 
+          "dcat:endDate": "Mon May 31 2021 00:00:00 GMT+0000 (Coordinated Universal Time)" }, 
+        "dct:accrualPeriodicity": "Weekly", 
+        "schema:fileSize": "610330 Bytes", 
+        "ov:csvcol": "Date (UTC),Außentemperatur und Feuchtigkeit (100km) [°C] [216956],Außentemperatur und Feuchtigkeit (100km) [%] [216956],Druckluftfluss [l/h] [216957],Kompressor 1 [W] [216958],Kompressor 3 [W] [216959]", 
+        "schema:DataType": "String", 
+        "dct:Provenance": { 
+          "dct:Publisher": { 
+            "schema:url": "http://providerxy.de", 
+            "schema:legalName": "Provider XY" 
+            }, 
+          "dct:Contributor": { 
+            "schema:url": "http://www.partnerxy.de", 
+            "schema:legalName": "PartnerXY" 
+          }
+             }
+             }, 
+        "dpdo:UsageDescriptionFacet": { 
+            "@id": "https://spaicer.de/dpdo/1630400500160",
+          "dct:hasVersion": { 
+            "@id": "https://spaicer.de/dpdo/1630400500160",
+            "dct:isVersionOf": { 
+              "schema:description": "Version 1.0", 
+              "dpdo:type": "UpdateOf", 
+              "schema:DateTime": "Tue Aug 31 2021 09:01:40 GMT+0000 (Coordinated Universal Time)",
+              "dct:References": "[ ] "
+              }
+            }, 
+            "dcat:Distribution": { 
+              "@id": "https://spaicer.de/dpdo/1630400500160",
+              "dct:PeriodOfTime": { 
+                "@id": "https://spaicer.de/dpdo/1630400500160",
+                "dcat:startDate": "Tue Jun 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)", 
+                "dcat:endDate": "Fri Dec 31 2021 00:00:00 GMT+0000 (Coordinated Universal Time)" 
+              } 
+                } 
+                }, 
+          "dpdo:BusinessDescriptionFacet": { 
+            "@id": "https://spaicer.de/dpdo/1630400500160",
+            "schema:PriceSpecification": "500€", 
+            "proton:Contract": {
+                "@id": "https://spaicer.de/dpdo/1630400500160",
+               "dcat:startDate": "Tue Jun 01 2021 00:00:00 GMT+0000 (Coordinated Universal Time)", 
+               "dcat:endDate": "Sat Jul 31 2021 00:00:00 GMT+0000 (Coordinated Universal Time)", 
+               "schema:description": "The contract between the data provider XY and the data consumer YZ...." }, 
+            "dpdo:NegotiationProtocol": { 
+                 "schema:DateTime": "",
+                 "schema:description": "There were no further negotiations."
+                 } 
+               }, 
+          "dpdo:TrustAndSecurityDescriptionFacet": { 
+            "@id": "https://spaicer.de/dpdo/1630400500160",
+            "dqv:QualityCertificate": "http://beispielzertifikat/#62716379NaN ",
+            "dpdo:reputation": { 
+              "@type": "dqv:QualityAnnotation", 
+              "schema:value": "0.89" 
+              }, 
+            "dct:modified": "Tue Aug 31 2021 09:01:03 GMT+0000 (Coordinated Universal Time)", 
+            "dct:Rights": "This data may only be used within your own company boundaries and may not be passed on to third parties" 
+            } 
+          }
