@@ -111,7 +111,7 @@ The following papers have been consideres for deriving the competency questions.
 39.	Shae, Z. Y., & Tsai, J. J. (2021, December). On the design of medical data ecosystem for improving healthcare research and commercial incentive. In 2021 IEEE Third International Conference on Cognitive Machine Intelligence (CogMI) (pp. 124-131). IEEE.
 40.	Bader, S., Pullmann, J., Mader, C., Tramp, S., Quix, C., Müller, A. W., ... & Lange, C. (2020, November). The international data spaces information model–an ontology for sovereign exchange of digital content. In International Semantic Web Conference (pp. 176-192). Cham: Springer International Publishing.
 
-###Other References <br>
+### Other References <br>
 41. Maass, W. (2009). Elektronische Wissensmärkte: Handel von Information und Wissen über digitale Netze. Springer-Verlag <br>
 42. Janzen, S., & Maass, W. (2008). Smart product description object (spdo). In Poster Proceedings of the 5th International Conference on Formal Ontology in Information Systems (FOIS) <br>
 43. Abramovici, M. (2014). Smart products. CIRP Encyclopedia of Production Engineering, 59, 1-5. <br>
